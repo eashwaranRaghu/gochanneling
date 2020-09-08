@@ -27,4 +27,5 @@ func main() {
 	TODO:
 	1. Dockerize
 	2. Err handling
+	3. Readme.md
 */
